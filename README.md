@@ -59,9 +59,14 @@
 
 ---
 
-## 🌟 My GitHub Stats
+## 🔁 Top Languages                                                                                                         ## 🌟 My GitHub Stats
+                                                                                                                          
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justchillac&layout=compact&theme=radical)   ![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justchillac&show_icons=true&theme=radical)
 
-![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharva&show_icons=true&theme=radical)
+
+
+
+
 
 ---
 
