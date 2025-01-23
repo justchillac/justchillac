@@ -48,6 +48,12 @@
 
 ---
 
+## 👀 Profile views
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+---
+
 ## 🎯 Fun Facts About Me
 
 - ⚡️ My laptop is equipped with a **GTX 1650 Ti GPU** and **RGB RAM** — because performance and style matter!
