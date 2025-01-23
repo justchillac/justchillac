@@ -23,9 +23,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
 
 ### Tools & Frameworks:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
+<img src="https://img.icons8.com/ios-filled/50/000000/flask.png" width="40" height="40" alt="Flask" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="Visual Studio Code" />
-<img src="https://img.icons8.com/ios/50/000000/api-settings.png" width="40" height="40" alt="REST API" />
+<img src="https://img.icons8.com/color/48/000000/api.png" width="40" height="40" alt="REST API" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" height="40" alt="Colab" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
@@ -34,7 +34,7 @@
 
 ### Cloud & Hosting:
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" alt="AWS" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Microsoft Azure" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="40" height="40" alt="GitHub" />
 
 ---
 
