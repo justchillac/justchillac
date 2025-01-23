@@ -51,6 +51,7 @@
 ## 👀 Profile views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitor Tracking](https://res.cloudinary.com/dmjbtqf5c/image/upload/v1737655194/tracking-pixel_tacqbb.png)
 
 ---
 
